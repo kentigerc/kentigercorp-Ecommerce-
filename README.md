@@ -4,7 +4,7 @@ Feel free to customize it and edit as you please, through the following steps, a
 
 # Installation
 
-`git clone ("link")
+`git clone "https://github.com/kentigerc/kentigercorp-Ecommerce-.git"
 
 `pip install -r requirements.txt`
 
